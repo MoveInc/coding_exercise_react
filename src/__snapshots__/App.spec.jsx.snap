@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should render component 1`] = `
+<div>
+  <h2
+    class="sc-bdvvaa gKFcLj"
+  >
+    🐱 Atomic Kitten Slider
+  </h2>
+</div>
+`;
