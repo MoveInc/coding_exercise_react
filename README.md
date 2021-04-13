@@ -1,4 +1,4 @@
-# 🐱 atomic-kitten-slider
+# coding_exercise_react
 
 This repo provides the exercise of building a kitten image slider app.
 
@@ -35,7 +35,7 @@ $ yarn start
 
 ### Testing 📝
 
-Please use the following to run the unit tests in the repo.
+Once the dependencies are installed, please use [yarn](https://yarnpkg.com/lang/en/docs/install) to run the unit tests.
 
 ```
 $ yarn test

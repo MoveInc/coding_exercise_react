@@ -1,7 +1,7 @@
 {
   "name": "coding_exercise_react",
   "version": "1.0.0",
-  "description": "Kitten image slider app component",
+  "description": "Exercise for a kitten image slider app",
   "author": "Move Inc",
   "license": "ISC",
   "scripts": {
